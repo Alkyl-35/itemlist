@@ -36,6 +36,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -72,10 +78,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "dracoix",
+    "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "telardo",
     "name": "DragSelect",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Break Mod",
+    "steamId": "1722398508",
+    "version": "1.0.0"
   },
   {
     "author": "Dubwise",
@@ -112,6 +130,12 @@
     "name": "Killa Cran Time",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
   },
   {
     "author": "Mehni",
@@ -188,6 +212,12 @@
   {
     "author": "Roolo",
     "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist and Mlie",
+    "name": "Simple FX: Smoke",
     "steamId": null,
     "version": null
   },
@@ -276,6 +306,12 @@
     "version": "1.4.8315.17730"
   },
   {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -326,6 +362,18 @@
   {
     "author": "Harkon",
     "name": "[HRK] Vanilla Expanded Extra Embrasures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": "2812826451",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
     "steamId": null,
     "version": null
   },
